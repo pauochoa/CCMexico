@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Root</key>
+	<array>
+		<array>
+			<dict>
+				<key>desc</key>
+				<string>Permites la reproducción, distribución y comunicación pública de la obra, incluso con fines comerciales.</string>
+				<key>img</key>
+				<string>si</string>
+				<key>title</key>
+				<string>Si</string>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Permites la reproducción, distribución y comunicación pública de la obra sólo para fines no comerciales.</string>
+				<key>img</key>
+				<string>no</string>
+				<key>title</key>
+				<string>No</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>desc</key>
+				<string>Permites la reproducción, distribución y comunicación pública de la obra así como la generación de obras derivadas.</string>
+				<key>img</key>
+				<string>si</string>
+				<key>title</key>
+				<string>Si</string>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Permites distribuir obras derivadas sólo bajo una licencia idéntica a la que regula su obra.</string>
+				<key>img</key>
+				<string>simientras</string>
+				<key>title</key>
+				<string>Sí, mientras se comparta de la misma manera </string>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Permites copiar, distribuir y comunicar públicamente solamente copias inalteradas de la obra, no obras derivadas basadas en ella.</string>
+				<key>img</key>
+				<string>no</string>
+				<key>title</key>
+				<string>No</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>desc</key>
+				<string>Use the option &quot;International&quot; if you desire a license using language and terminology from international treaties</string>
+				<key>img</key>
+				<string>international</string>
+				<key>title</key>
+				<string>Internacional</string>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string> ported license</string>
+				<key>img</key>
+				<string>mx</string>
+				<key>title</key>
+				<string>México</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>desc</key>
+				<string>El título de la obra que estás licenciando.</string>
+				<key>enarray</key>
+				<string>titulo</string>
+				<key>img</key>
+				<string>1</string>
+				<key>title</key>
+				<string>Título de la obra</string>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>El nombre que los usuarios deberán citar como reconocimiento. Por ejemplo el nombre del autor de la obra.</string>
+				<key>enarray</key>
+				<string>nombre</string>
+				<key>img</key>
+				<string></string>
+				<key>title</key>
+				<string>Attribute work to name</string>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>La URL que los usuarios deberán enlazar. Por ejemplo, la página de la obra en el sitio web del autor.</string>
+				<key>enarray</key>
+				<string>url</string>
+				<key>img</key>
+				<string></string>
+				<key>title</key>
+				<string>Attribute work to URL</string>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Una obra de la cual se genera otra.</string>
+				<key>enarray</key>
+				<string>urlfuente</string>
+				<key>img</key>
+				<string></string>
+				<key>title</key>
+				<string>URL fuente de la obra</string>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Una URL donde los usuarios podrán encontrar información sobre cómo conseguir autorizaciones no concedidas con la licencia de CC.</string>
+				<key>enarray</key>
+				<string>permisos</string>
+				<key>img</key>
+				<string></string>
+				<key>title</key>
+				<string>More permissions URL</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>desc</key>
+				<string></string>
+				<key>img</key>
+				<string>otro</string>
+				<key>title</key>
+				<string>Otro</string>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string></string>
+				<key>img</key>
+				<string>video</string>
+				<key>title</key>
+				<string>Video</string>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string></string>
+				<key>img</key>
+				<string>audio</string>
+				<key>title</key>
+				<string>Audio</string>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string></string>
+				<key>img</key>
+				<string>imagen</string>
+				<key>title</key>
+				<string>Imagen</string>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string></string>
+				<key>img</key>
+				<string>texto</string>
+				<key>title</key>
+				<string>Texto</string>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string></string>
+				<key>img</key>
+				<string>dataset</string>
+				<key>title</key>
+				<string>Dataset</string>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string></string>
+				<key>img</key>
+				<string>interactivo</string>
+				<key>title</key>
+				<string>Interactivo</string>
+			</dict>
+		</array>
+	</array>
+</dict>
+</plist>

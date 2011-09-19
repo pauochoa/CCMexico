@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Root</key>
+	<array>
+		<dict>
+			<key>humano</key>
+			<string>&lt;h2&gt;Eres libre de:&lt;/h2&gt;        
+        &lt;div class=&quot;divblock hoja&quot;&gt;
+          Compartir - copiar, distribuir, ejecutar y comunicar públicamente la obra.
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;divblock cuadros&quot;&gt;
+          Hacer obras derivadas.
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;divblock&quot;&gt;
+         Hacer un uso comercial de esta obra.
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+        
+        &lt;h2&gt;Bajo las condiciones siguientes:&lt;/h2&gt; 
+        
+        &lt;div class=&quot;divblock persona&quot;&gt;
+          &lt;strong&gt;Atribución&lt;/strong&gt; — Debes reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra).
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+        
+        &lt;h2&gt;Entendiendo que:&lt;/h2&gt; 
+        &lt;div class=&quot;divent&quot;&gt;
+          &lt;p&gt;
+            &lt;strong&gt;Renuncia&lt;/strong&gt; — Alguna de estas condiciones puede &lt;u&gt;no aplicarse&lt;/u&gt; si se obtiene el permiso del titular de los derechos de autor.
+          &lt;/p&gt;
+        
+          &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+          
+          &lt;p&gt;
+            &lt;strong&gt;Dominio Público&lt;/strong&gt; — Cuando la obra o alguno de sus elementos se halle en el &lt;u&gt;dominio público&lt;/u&gt; según la ley vigente aplicable, esta situación no quedará afectada por la licencia.
+          &lt;/p&gt;
+        
+          &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+          
+          &lt;p&gt;
+            &lt;strong&gt;Otros derechos&lt;/strong&gt; — Los derechos siguientes no quedan afectados por la licencia de ninguna manera:
+            &lt;ul&gt;
+              &lt;li&gt;
+                Los derechos derivados de &lt;i&gt;usos legítimos&lt;/i&gt; u otras limitaciones reconocidas por ley no se ven afectados por lo anterior.
+              &lt;/li&gt;
+              &lt;li&gt;
+              Los derechos &lt;i&gt;morales&lt;/i&gt; del auto.
+              &lt;/li&gt;
+              &lt;li&gt;
+              Derechos que pueden ostentar otras personas sobre la propia obra o su uso, como por ejemplo &lt;u&gt;derechos de imagen&lt;/u&gt; o de privacidad.
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/p&gt;
+        
+        &lt;p&gt;
+        &lt;strong&gt;Aviso&lt;/strong&gt; — Al reutilizar o distribuir la obra, tienes que dejar muy en claro los términos de la licencia de esta obra. La mejor forma de hacerlo es enlazar a esta página.
+        &lt;/p&gt;
+      &lt;/div&gt;  
+</string>
+			<key>imgchica</key>
+			<string>http://i.creativecommons.org/l/by/2.5/mx/80x15.png</string>
+			<key>imggrande</key>
+			<string>http://i.creativecommons.org/l/by/2.5/mx/88x31.png</string>
+			<key>nombreint</key>
+			<string>Licencia de Creative Commons Reconocimiento 3.0 Unported</string>
+			<key>nombremx</key>
+			<string>Licencia de Creative Commons Reconocimiento 2.5 México</string>
+			<key>urlint</key>
+			<string>http://creativecommons.org/licenses/by/3.0/</string>
+			<key>urlmx</key>
+			<string>http://creativecommons.org/licenses/by/2.5/mx/</string>
+		</dict>
+		<dict>
+			<key>humano</key>
+			<string>&lt;h2&gt;Eres libre de:&lt;/h2&gt;        
+        &lt;div class=&quot;divent&quot;&gt;
+          Compartir - copiar, distribuir, ejecutar y comunicar públicamente la obra.&lt;br/&gt;
+          Hacer obras derivadas.&lt;br/&gt;
+          Hacer un uso comercial de esta obra.
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+        
+        &lt;h2&gt;Bajo las condiciones siguientes:&lt;/h2&gt; 
+        
+        &lt;div class=&quot;divblock persona&quot;&gt;
+          &lt;strong&gt;Atribución&lt;/strong&gt; — Debes reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra).
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&quot;divblock cinvertida&quot;&gt;
+          &lt;strong&gt;Compartir bajo la Misma Licencia&lt;/strong&gt; — Si alteras o transformas esta obra, o generas una obra derivada, sólo puedes distribuir la obra generada bajo una licencia idéntica a ésta.
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+        
+        &lt;h2&gt;Entendiendo que:&lt;/h2&gt; 
+        &lt;div class=&quot;divent&quot;&gt;
+          &lt;p&gt;
+          &lt;strong&gt;Renuncia&lt;/strong&gt; — Alguna de estas condiciones puede &lt;u&gt;no aplicarse&lt;/u&gt; si se obtiene el permiso del titular de los derechos de autor.
+          &lt;/p&gt;
+          
+          &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+          
+          &lt;p&gt;
+          &lt;strong&gt;Dominio Público&lt;/strong&gt; — Cuando la obra o alguno de sus elementos se halle en el &lt;u&gt;dominio público&lt;/u&gt; según la ley vigente aplicable, esta situación no quedará afectada por la licencia.
+          &lt;/p&gt;
+          
+          &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+          
+          &lt;p&gt;
+          &lt;strong&gt;Otros derechos&lt;/strong&gt; — Los derechos siguientes no quedan afectados por la licencia de ninguna manera:
+          &lt;ul&gt;
+            &lt;li&gt;
+              Los derechos derivados de &lt;ul&gt;usos legítimos&lt;/u&gt; u otras limitaciones reconocidas por ley no se ven afectados por lo anterior.
+                &lt;/li&gt;
+            &lt;li&gt;
+              Los derechos &lt;u&gt;morales&lt;/u&gt; del auto;
+            &lt;/li&gt;
+            &lt;li&gt;
+              Derechos que pueden ostentar otras personas sobre la propia obra o su uso, como por ejemplo &lt;u&gt;derechos de imagen&lt;/u&gt; o de privacidad.
+            &lt;/li&gt;
+          &lt;/ul&gt;
+          &lt;/p&gt;
+          
+          &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+          
+          &lt;p&gt;
+          &lt;strong&gt;Aviso&lt;/strong&gt; — Al reutilizar o distribuir la obra, tienes que dejar muy en claro los términos de la licencia de esta obra. La mejor forma de hacerlo es enlazar a esta página.
+          &lt;/p&gt;
+        &lt;/div&gt;</string>
+			<key>imgchica</key>
+			<string>http://i.creativecommons.org/l/by-sa/2.5/mx/80x15.png</string>
+			<key>imggrande</key>
+			<string>http://i.creativecommons.org/l/by-sa/2.5/mx/88x31.png</string>
+			<key>nombreint</key>
+			<string>Licencia de Creative Commons Reconocimiento-CompartirIgual 3.0 Unported</string>
+			<key>nombremx</key>
+			<string>Licencia de Creative Commons Reconocimiento-CompartirIgual 2.5 México</string>
+			<key>urlint</key>
+			<string>http://creativecommons.org/licenses/by-sa/3.0/</string>
+			<key>urlmx</key>
+			<string>http://creativecommons.org/licenses/by-sa/2.5/mx/</string>
+		</dict>
+		<dict>
+			<key>humano</key>
+			<string>&lt;h2&gt;Eres libre de:&lt;/h2&gt;        
+        &lt;div class=&quot;divent&quot;&gt;
+          Compartir - copiar, distribuir, ejecutar y comunicar públicamente la obra.&lt;br/&gt;
+          Hacer un uso comercial de esta obra. 
+        &lt;/div&gt;
+              
+        &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+        
+        &lt;h2&gt;Bajo las condiciones siguientes:&lt;/h2&gt; 
+        
+        &lt;div class=&quot;divblock persona&quot;&gt;
+          &lt;strong&gt;Atribución&lt;/strong&gt; — Debes reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra).
+        &lt;/div&gt;
+       
+        &lt;div class=&quot;divblock igual&quot;&gt;
+          &lt;strong&gt;Sin Obras Derivadas&lt;/strong&gt; — No se puede alterar, transformar o generar una obra derivada a partir de esta obra.
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+        
+        &lt;h2&gt;Entendiendo que:&lt;/h2&gt; 
+        &lt;div class=&quot;divent&quot;&gt;
+          &lt;p&gt;
+          &lt;strong&gt;Renuncia&lt;/strong&gt; — Alguna de estas condiciones puede &lt;u&gt;no aplicarse&lt;/u&gt; si se obtiene el permiso del titular de los derechos de autor.
+          &lt;/p&gt;
+          
+          &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+          
+          &lt;p&gt;
+          &lt;strong&gt;Dominio Público&lt;/strong&gt; — Cuando la obra o alguno de sus elementos se halle en el &lt;u&gt;dominio público&lt;/u&gt; según la ley vigente aplicable, esta situación no quedará afectada por la licencia.
+          &lt;/p&gt;
+          
+          &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+          
+          &lt;p&gt;
+          &lt;strong&gt;Otros derechos&lt;/strong&gt; — Los derechos siguientes no quedan afectados por la licencia de ninguna manera:
+          &lt;ul&gt;
+            &lt;li&gt;
+              Los derechos derivados de &lt;ul&gt;usos legítimos&lt;/u&gt; u otras limitaciones reconocidas por ley no se ven afectados por lo anterior.
+                &lt;/li&gt;
+            &lt;li&gt;
+              Los derechos &lt;u&gt;morales&lt;/u&gt; del auto;
+            &lt;/li&gt;
+            &lt;li&gt;
+              Derechos que pueden ostentar otras personas sobre la propia obra o su uso, como por ejemplo &lt;u&gt;derechos de imagen&lt;/u&gt; o de privacidad.
+            &lt;/li&gt;
+          &lt;/ul&gt;
+          &lt;/p&gt;
+          
+          &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+          
+          &lt;p&gt;
+          &lt;strong&gt;Aviso&lt;/strong&gt; — Al reutilizar o distribuir la obra, tienes que dejar muy en claro los términos de la licencia de esta obra. La mejor forma de hacerlo es enlazar a esta página.
+          &lt;/p&gt;
+        &lt;/div&gt;  </string>
+			<key>imgchica</key>
+			<string>http://i.creativecommons.org/l/by-nd/2.5/mx/80x15.png</string>
+			<key>imggrande</key>
+			<string>http://i.creativecommons.org/l/by-nd/2.5/mx/88x31.png</string>
+			<key>nombreint</key>
+			<string>Licencia de Creative Commons Reconocimiento-SinObraDerivada 3.0 Unported</string>
+			<key>nombremx</key>
+			<string>Licencia de Creative Commons Reconocimiento-SinObraDerivada 2.5 México</string>
+			<key>urlint</key>
+			<string>http://creativecommons.org/licenses/by-nd/3.0/</string>
+			<key>urlmx</key>
+			<string>http://creativecommons.org/licenses/by-nd/2.5/mx/</string>
+		</dict>
+		<dict>
+			<key>humano</key>
+			<string> &lt;h2&gt;Eres libre de:&lt;/h2&gt;        
+        &lt;div class=&quot;divent&quot;&gt;
+          Compartir - copiar, distribuir, ejecutar y comunicar públicamente la obra.&lt;br/&gt;
+          Hacer obras derivadas.
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+        
+        &lt;h2&gt;Bajo las condiciones siguientes:&lt;/h2&gt; 
+        
+        &lt;div class=&quot;divblock persona&quot;&gt;
+          &lt;strong&gt;Atribución&lt;/strong&gt; — Debes reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra).
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;divblock money&quot;&gt;
+          &lt;strong&gt;No Comercial&lt;/strong&gt; — No puedes utilizar esta obra para fines comerciales.
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+        
+        &lt;h2&gt;Entendiendo que:&lt;/h2&gt; 
+        &lt;div class=&quot;divent&quot;&gt;
+          &lt;p&gt;
+          &lt;strong&gt;Renuncia&lt;/strong&gt; — Alguna de estas condiciones puede &lt;u&gt;no aplicarse&lt;/u&gt; si se obtiene el permiso del titular de los derechos de autor.
+          &lt;/p&gt;
+          
+          &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+          
+          &lt;p&gt;
+          &lt;strong&gt;Dominio Público&lt;/strong&gt; — Cuando la obra o alguno de sus elementos se halle en el &lt;u&gt;dominio público&lt;/u&gt; según la ley vigente aplicable, esta situación no quedará afectada por la licencia.
+          &lt;/p&gt;
+          
+          &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+          
+          &lt;p&gt;
+          &lt;strong&gt;Otros derechos&lt;/strong&gt; — Los derechos siguientes no quedan afectados por la licencia de ninguna manera:
+          &lt;ul&gt;
+            &lt;li&gt;
+              Los derechos derivados de &lt;ul&gt;usos legítimos&lt;/u&gt; u otras limitaciones reconocidas por ley no se ven afectados por lo anterior.
+                &lt;/li&gt;
+            &lt;li&gt;
+              Los derechos &lt;u&gt;morales&lt;/u&gt; del auto;
+            &lt;/li&gt;
+            &lt;li&gt;
+              Derechos que pueden ostentar otras personas sobre la propia obra o su uso, como por ejemplo &lt;u&gt;derechos de imagen&lt;/u&gt; o de privacidad.
+            &lt;/li&gt;
+          &lt;/ul&gt;
+          &lt;/p&gt;
+          
+          &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+          
+          &lt;p&gt;
+          &lt;strong&gt;Aviso&lt;/strong&gt; — Al reutilizar o distribuir la obra, tienes que dejar muy en claro los términos de la licencia de esta obra. La mejor forma de hacerlo es enlazar a esta página.
+          &lt;/p&gt;
+        &lt;/div&gt;  </string>
+			<key>imgchica</key>
+			<string>http://i.creativecommons.org/l/by-nc/2.5/mx/80x15.png</string>
+			<key>imggrande</key>
+			<string>http://i.creativecommons.org/l/by-nc/2.5/mx/88x31.png</string>
+			<key>nombreint</key>
+			<string>Licencia de Creative Commons Reconocimiento-NoComercial 3.0 Unported</string>
+			<key>nombremx</key>
+			<string>Licencia de Creative Commons Reconocimiento-NoComercial 2.5 México</string>
+			<key>urlint</key>
+			<string>http://creativecommons.org/licenses/by-nc/3.0/</string>
+			<key>urlmx</key>
+			<string>http://creativecommons.org/licenses/by-nc/2.5/mx/</string>
+		</dict>
+		<dict>
+			<key>humano</key>
+			<string>&lt;h2&gt;Eres libre de:&lt;/h2&gt;        
+        &lt;div class=&quot;divent&quot;&gt;
+          Compartir - copiar, distribuir, ejecutar y comunicar públicamente la obra.&lt;br/&gt;
+          Hacer obras derivadas.
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+        
+        &lt;h2&gt;Bajo las condiciones siguientes:&lt;/h2&gt; 
+        
+        &lt;div class=&quot;divblock persona&quot;&gt;
+          &lt;strong&gt;Atribución&lt;/strong&gt; — Debes reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra).
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;divblock money&quot;&gt;
+          &lt;strong&gt;No Comercial&lt;/strong&gt; — No puedes utilizar esta obra para fines comerciales.
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;divblock cinvertida&quot;&gt;
+          &lt;strong&gt;Compartir bajo la Misma Licencia&lt;/strong&gt; — Si alteras o transformas esta obra, o generas una obra derivada, sólo puedes distribuir la obra generada bajo una licencia idéntica a ésta.
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+        
+        &lt;h2&gt;Entendiendo que:&lt;/h2&gt; 
+        &lt;div class=&quot;divent&quot;&gt;
+          &lt;p&gt;
+          &lt;strong&gt;Renuncia&lt;/strong&gt; — Alguna de estas condiciones puede &lt;u&gt;no aplicarse&lt;/u&gt; si se obtiene el permiso del titular de los derechos de autor.
+          &lt;/p&gt;
+          
+          &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+          
+          &lt;p&gt;
+          &lt;strong&gt;Dominio Público&lt;/strong&gt; — Cuando la obra o alguno de sus elementos se halle en el &lt;u&gt;dominio público&lt;/u&gt; según la ley vigente aplicable, esta situación no quedará afectada por la licencia.
+          &lt;/p&gt;
+          
+          &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+          
+          &lt;p&gt;
+          &lt;strong&gt;Otros derechos&lt;/strong&gt; — Los derechos siguientes no quedan afectados por la licencia de ninguna manera:
+          &lt;ul&gt;
+            &lt;li&gt;
+              Los derechos derivados de &lt;ul&gt;usos legítimos&lt;/u&gt; u otras limitaciones reconocidas por ley no se ven afectados por lo anterior.
+                &lt;/li&gt;
+            &lt;li&gt;
+              Los derechos &lt;u&gt;morales&lt;/u&gt; del auto;
+            &lt;/li&gt;
+            &lt;li&gt;
+              Derechos que pueden ostentar otras personas sobre la propia obra o su uso, como por ejemplo &lt;u&gt;derechos de imagen&lt;/u&gt; o de privacidad.
+            &lt;/li&gt;
+          &lt;/ul&gt;
+          &lt;/p&gt;
+          
+          &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+          
+          &lt;p&gt;
+          &lt;strong&gt;Aviso&lt;/strong&gt; — Al reutilizar o distribuir la obra, tienes que dejar muy en claro los términos de la licencia de esta obra. La mejor forma de hacerlo es enlazar a esta página.
+          &lt;/p&gt;
+        &lt;/div&gt;  </string>
+			<key>imgchica</key>
+			<string>http://i.creativecommons.org/l/by-nc-sa/2.5/mx/80x15.png</string>
+			<key>imggrande</key>
+			<string>http://i.creativecommons.org/l/by-nc-sa/2.5/mx/88x31.png</string>
+			<key>nombreint</key>
+			<string>Licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 3.0 Unported</string>
+			<key>nombremx</key>
+			<string>Licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 2.5 México</string>
+			<key>urlint</key>
+			<string>http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+			<key>urlmx</key>
+			<string>http://creativecommons.org/licenses/by-nc-sa/2.5/mx/</string>
+		</dict>
+		<dict>
+			<key>humano</key>
+			<string>&lt;h2&gt;Eres libre de:&lt;/h2&gt;        
+        &lt;div class=&quot;divent&quot;&gt;
+          Compartir - copiar, distribuir, ejecutar y comunicar públicamente la obra.
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+        
+        &lt;h2&gt;Bajo las condiciones siguientes:&lt;/h2&gt; 
+        
+        &lt;div class=&quot;divblock persona&quot;&gt;
+          &lt;strong&gt;Atribución&lt;/strong&gt; — Debes reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra).
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;divblock money&quot;&gt;
+          &lt;strong&gt;No Comercial&lt;/strong&gt; — No puedes utilizar esta obra para fines comerciales.
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;divblock igual&quot;&gt;
+          &lt;strong&gt;Sin Obras Derivadas&lt;/strong&gt; —No se puede alterar, transformar o generar una obra derivada a partir de esta obra.
+        &lt;/div&gt;
+        
+        
+        &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+        
+        &lt;h2&gt;Entendiendo que:&lt;/h2&gt; 
+        &lt;div class=&quot;divent&quot;&gt;
+          &lt;p&gt;
+          &lt;strong&gt;Renuncia&lt;/strong&gt; — Alguna de estas condiciones puede &lt;u&gt;no aplicarse&lt;/u&gt; si se obtiene el permiso del titular de los derechos de autor.
+          &lt;/p&gt;
+          
+          &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+          
+          &lt;p&gt;
+          &lt;strong&gt;Dominio Público&lt;/strong&gt; — Cuando la obra o alguno de sus elementos se halle en el &lt;u&gt;dominio público&lt;/u&gt; según la ley vigente aplicable, esta situación no quedará afectada por la licencia.
+          &lt;/p&gt;
+          
+          &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+          
+          &lt;p&gt;
+          &lt;strong&gt;Otros derechos&lt;/strong&gt; — Los derechos siguientes no quedan afectados por la licencia de ninguna manera:
+          &lt;ul&gt;
+            &lt;li&gt;
+              Los derechos derivados de &lt;ul&gt;usos legítimos&lt;/u&gt; u otras limitaciones reconocidas por ley no se ven afectados por lo anterior.
+                &lt;/li&gt;
+            &lt;li&gt;
+              Los derechos &lt;u&gt;morales&lt;/u&gt; del auto;
+            &lt;/li&gt;
+            &lt;li&gt;
+              Derechos que pueden ostentar otras personas sobre la propia obra o su uso, como por ejemplo &lt;u&gt;derechos de imagen&lt;/u&gt; o de privacidad.
+            &lt;/li&gt;
+          &lt;/ul&gt;
+          &lt;/p&gt;
+          
+          &lt;div class=&quot;cleard&quot;&gt;&lt;/div&gt;
+          
+          &lt;p&gt;
+          &lt;strong&gt;Aviso&lt;/strong&gt; — Al reutilizar o distribuir la obra, tienes que dejar muy en claro los términos de la licencia de esta obra. La mejor forma de hacerlo es enlazar a esta página.
+          &lt;/p&gt;
+        &lt;/div&gt;</string>
+			<key>imgchica</key>
+			<string>http://i.creativecommons.org/l/by-nc-nd/2.5/mx/80x15.png</string>
+			<key>imggrande</key>
+			<string>http://i.creativecommons.org/l/by-nc-nd/2.5/mx/88x31.png</string>
+			<key>nombreint</key>
+			<string>Licencia de Creative Commons Reconocimiento-NoComercial-SinObraDerivada 3.0 Unported</string>
+			<key>nombremx</key>
+			<string>Licencia de Creative Commons Reconocimiento-NoComercial-SinObraDerivada 2.5 México</string>
+			<key>urlint</key>
+			<string>http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+			<key>urlmx</key>
+			<string>http://creativecommons.org/licenses/by-nc-nd/2.5/mx/</string>
+		</dict>
+	</array>
+</dict>
+</plist>

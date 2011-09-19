@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Root</key>
+	<array>
+		<dict>
+			<key>logo</key>
+			<string>google</string>
+			<key>name</key>
+			<string>Google web</string>
+			<key>options</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>Todo, sin selección</string>
+					<key>query</key>
+					<string>/search?q=__SEARCHTERM__&amp;as_rights=(cc_publicdomain|cc_attribute|cc_sharealike|cc_noncommercial|cc_nonderived)&amp;nomo=1</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Ambas opciones</string>
+					<key>query</key>
+					<string>/search?q=__SEARCHTERM__&amp;as_rights=(cc_publicdomain|cc_attribute|cc_sharealike).-(cc_noncommercial|cc_nonderived)&amp;nomo=1</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Propósitos comerciales</string>
+					<key>query</key>
+					<string>/search?q=__SEARCHTERM__&amp;as_rights=(cc_publicdomain|cc_attribute|cc_sharealike|cc_nonderived).-(cc_noncommercial)&amp;nomo=1</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Modificar, usar y derivar</string>
+					<key>query</key>
+					<string>/search?q=__SEARCHTERM__&amp;as_rights=(cc_publicdomain|cc_attribute|cc_sharealike|cc_noncommercial).-(cc_nonderived)&amp;nomo=1</string>
+				</dict>
+			</array>
+			<key>urlbase</key>
+			<string>http://www.google.com</string>
+		</dict>
+		<dict>
+			<key>logo</key>
+			<string>googleimages</string>
+			<key>name</key>
+			<string>Google images</string>
+			<key>options</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>Todo, sin selección</string>
+					<key>query</key>
+					<string>/search?q=__SEARCHTERM__&amp;tbm=isch&amp;tbs=iur:f&amp;nomo=1</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Ambas opciones</string>
+					<key>query</key>
+					<string>/search?q=__SEARCHTERM__&amp;tbm=isch&amp;tbs=iur:fmc&amp;nomo=1</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Propósitos comerciales</string>
+					<key>query</key>
+					<string>/search?q=__SEARCHTERM__&amp;tbm=isch&amp;tbs=iur:fc&amp;nomo=1</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Modificar, usar, derivar</string>
+					<key>query</key>
+					<string>/search?q=__SEARCHTERM__&amp;tbm=isch&amp;tbs=iur:fm&amp;nomo=1</string>
+				</dict>
+			</array>
+			<key>urlbase</key>
+			<string>http://www.google.com</string>
+		</dict>
+		<dict>
+			<key>logo</key>
+			<string>flickr</string>
+			<key>name</key>
+			<string>Flickr</string>
+			<key>options</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>Todo, sin selección</string>
+					<key>query</key>
+					<string>/search/?q=__SEARCHTERM__&amp;l=cc</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Ambas opciones</string>
+					<key>query</key>
+					<string>/search/?q=__SEARCHTERM__&amp;l=commderiv</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Propósitos comerciales</string>
+					<key>query</key>
+					<string>/search/?q=__SEARCHTERM__&amp;l=comm</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Modificar, usar, derivar</string>
+					<key>query</key>
+					<string>/search/?q=__SEARCHTERM__&amp;l=deriv</string>
+				</dict>
+			</array>
+			<key>urlbase</key>
+			<string>http://www.flickr.com</string>
+		</dict>
+		<dict>
+			<key>logo</key>
+			<string>bliptv</string>
+			<key>name</key>
+			<string>Blip.tv</string>
+			<key>options</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>Todo, sin selección</string>
+					<key>query</key>
+					<string>/search?q=__SEARCHTERM__&amp;license=1,6,7,2,3,4,5</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Ambas opciones</string>
+					<key>query</key>
+					<string>/search?q=__SEARCHTERM__&amp;license=1,6,7</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Propósitos comerciales</string>
+					<key>query</key>
+					<string>/search?q=__SEARCHTERM__&amp;license=1,6,7,2</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Modificar, usar, derivar</string>
+					<key>query</key>
+					<string>/search?q=__SEARCHTERM__&amp;license=1,6,7,4,5</string>
+				</dict>
+			</array>
+			<key>urlbase</key>
+			<string>http://blip.tv</string>
+		</dict>
+		<dict>
+			<key>logo</key>
+			<string>jamendo</string>
+			<key>name</key>
+			<string>Jamendo</string>
+			<key>options</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>Todo, sin selección</string>
+					<key>query</key>
+					<string>/tag/__SEARCHTERM__?location_country=all&amp;order=rating_desc</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Ambas opciones</string>
+					<key>query</key>
+					<string>/tag/__SEARCHTERM__?license_minrights_c=on&amp;license_minrights_d=on&amp;location_country=all&amp;order=rating_desc</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Propósitos comerciales</string>
+					<key>query</key>
+					<string>/tag/__SEARCHTERM__?license_minrights_c=on&amp;location_country=all&amp;order=rating_desc</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Modificar, usar, derivar</string>
+					<key>query</key>
+					<string>/tag/__SEARCHTERM__?license_minrights_d=on&amp;location_country=all&amp;order=rating_desc</string>
+				</dict>
+			</array>
+			<key>urlbase</key>
+			<string>http://www.jamendo.com/es</string>
+		</dict>
+		<dict>
+			<key>logo</key>
+			<string>spinxpress</string>
+			<key>name</key>
+			<string>SpinXpress</string>
+			<key>options</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>Todo, sin selección</string>
+					<key>query</key>
+					<string>/getmedia_searchwords=__SEARCHTERM___license=11</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Ambas opciones</string>
+					<key>query</key>
+					<string>/getmedia_searchwords=__SEARCHTERM___license=10</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Propósitos comerciales</string>
+					<key>query</key>
+					<string>/getmedia_searchwords=__SEARCHTERM___license=8</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Modificar, usar, derivar</string>
+					<key>query</key>
+					<string>/getmedia_searchwords=__SEARCHTERM___license=9</string>
+				</dict>
+			</array>
+			<key>urlbase</key>
+			<string>http://spinxpress.com</string>
+		</dict>
+		<dict>
+			<key>logo</key>
+			<string>wikimediacommons</string>
+			<key>name</key>
+			<string>Wikimedia Commons</string>
+			<key>options</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>Buscar en todo</string>
+					<key>query</key>
+					<string>/w/index.php?title=Special%3ASearch&amp;redirs=0&amp;search=__SEARCHTERM__&amp;fulltext=Search&amp;ns0=1&amp;ns6=1&amp;ns14=1&amp;title=Special%3ASearch&amp;advanced=1</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Ambas opciones</string>
+					<key>query</key>
+					<string>/w/index.php?title=Special%3ASearch&amp;redirs=0&amp;search=__SEARCHTERM__&amp;fulltext=Search&amp;ns0=1&amp;ns6=1&amp;ns14=1&amp;title=Special%3ASearch&amp;advanced=1</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Propósitos comerciales</string>
+					<key>query</key>
+					<string>/w/index.php?title=Special%3ASearch&amp;redirs=0&amp;search=__SEARCHTERM__&amp;fulltext=Search&amp;ns0=1&amp;ns6=1&amp;ns14=1&amp;title=Special%3ASearch&amp;advanced=1</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Modificar, usar, derivar</string>
+					<key>query</key>
+					<string>/w/index.php?title=Special%3ASearch&amp;redirs=0&amp;search=__SEARCHTERM__&amp;fulltext=Search&amp;ns0=1&amp;ns6=1&amp;ns14=1&amp;title=Special%3ASearch&amp;advanced=1</string>
+				</dict>
+			</array>
+			<key>urlbase</key>
+			<string>http://commons.wikimedia.org</string>
+		</dict>
+		<dict>
+			<key>logo</key>
+			<string>fotopedia</string>
+			<key>name</key>
+			<string>Fotopedia</string>
+			<key>options</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>Buscar en todo</string>
+					<key>query</key>
+					<string>/search?q=__SEARCHTERM__&amp;human_license=reuse</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Ambas opciones</string>
+					<key>query</key>
+					<string>/search?q= __SEARCHTERM__&amp;human_license=reuse_commercial_modify</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Propósitos comerciales</string>
+					<key>query</key>
+					<string>/search?q= __SEARCHTERM__&amp;human_license=reuse_commercial</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Modificar, usar, derivar</string>
+					<key>query</key>
+					<string>/search?q= __SEARCHTERM__&amp;human_license=reuse_modify</string>
+				</dict>
+			</array>
+			<key>urlbase</key>
+			<string>http://www.fotopedia.com</string>
+		</dict>
+	</array>
+</dict>
+</plist>
