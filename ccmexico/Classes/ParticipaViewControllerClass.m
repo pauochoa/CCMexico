@@ -3,25 +3,8 @@
 //  ccmexico
 //
 //  Created by Pau Ochoa on 05/07/11.
-//  
-//  Copyright (C) 2011  Paulino Ochoa/Alternativa Digital
+//  Copyright 2011 AD. All rights reserved.
 //
-//  This program is free software: you can redistribute it and/or modify
-//  it under the terms of the GNU General Public License as published by
-//  the Free Software Foundation, either version 3 of the License, or
-//  (at your option) any later version.
-//
-//  This program is distributed in the hope that it will be useful,
-//  but WITHOUT ANY WARRANTY; without even the implied warranty of
-//  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-//  GNU General Public License for more details.
-//
-//  You should have received a copy of the GNU General Public License
-//  along with this program.  If not, see <http://www.gnu.org/licenses/>.
-//
-//  Contact:
-//  paulino@adigital.com.mx
-//  @pau_ochoa
 
 #import "ParticipaViewControllerClass.h"
 
@@ -85,7 +68,7 @@
   if ([MFMailComposeViewController canSendMail]) 
   {
     NSString *subject = [NSString stringWithString:@"[CC México - Quiero participar]"];
-    NSString *body = [NSString stringWithString:@"[Comparte información de tu obra o escribenos tu propuesta]"];
+    NSString *body = [NSString stringWithString:@"[Escribe tu propuesta]"];
     NSArray *toSend = [NSArray arrayWithObjects:@"pau8av@gmail.com",@"jorge.landa.b@gmail.com", nil];
     MFMailComposeViewController *mailViewController = [[MFMailComposeViewController alloc] init];
     mailViewController.mailComposeDelegate = self;
@@ -104,6 +87,7 @@
     [av show];
   }
 }
+
 
 // Dismisses the email composition interface when users tap Cancel or Send. Proceeds to update the message field with the result of the operation.
 - (void)mailComposeController:(MFMailComposeViewController*)controller didFinishWithResult:(MFMailComposeResult)result error:(NSError*)error 

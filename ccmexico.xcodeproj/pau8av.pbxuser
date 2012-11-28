@@ -1,0 +1,156 @@
+// !$*UTF8*$!
+{
+	FB27021313C3867000AF85BC /* ParticipaViewControllerClass.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 553}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 568}";
+		};
+	};
+	FB27021413C3867000AF85BC /* ParticipaViewControllerClass.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 1820}}";
+			sepNavSelRange = "{335, 0}";
+			sepNavVisRange = "{0, 811}";
+		};
+	};
+	FB796291138F119A00812EA9 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = FB93F82A13BBF7A100A55D44 /* ccmexico */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = FB796299138F119B00812EA9 /* ccmexico */;
+		codeSenseManager = FB93F83C13BBF7CB00A55D44 /* Code sense */;
+		executables = (
+			FB93F82A13BBF7A100A55D44 /* ccmexico */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					993,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 332106376;
+			PBXWorkspaceStateSaveDate = 332106376;
+		};
+		perUserProjectItems = {
+			FBB3B46113CB92AF008F8CD1 /* PBXTextBookmark */ = FBB3B46113CB92AF008F8CD1 /* PBXTextBookmark */;
+			FBB3B46213CB92AF008F8CD1 /* PBXTextBookmark */ = FBB3B46213CB92AF008F8CD1 /* PBXTextBookmark */;
+			FBB3B46313CB92AF008F8CD1 /* PBXBookmark */ = FBB3B46313CB92AF008F8CD1 /* PBXBookmark */;
+			FBB3B46E13CB9450008F8CD1 /* PBXTextBookmark */ = FBB3B46E13CB9450008F8CD1 /* PBXTextBookmark */;
+		};
+		sourceControlManager = FB93F83B13BBF7CB00A55D44 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FB796299138F119B00812EA9 /* ccmexico */ = {
+		activeExec = 0;
+		executables = (
+			FB93F82A13BBF7A100A55D44 /* ccmexico */,
+		);
+	};
+	FB7962C3138F119B00812EA9 /* ccmexicoTests */ = {
+		activeExec = 0;
+	};
+	FB93F82A13BBF7A100A55D44 /* ccmexico */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ccmexico;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FB93F83B13BBF7CB00A55D44 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FB93F83C13BBF7CB00A55D44 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FBB3B46113CB92AF008F8CD1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FBC5EB6313B10AC8004B952D /* SearchViewController.m */;
+		name = "SearchViewController.m: 588";
+		rLen = 0;
+		rLoc = 17768;
+		rType = 0;
+		vrLen = 1661;
+		vrLoc = 16716;
+	};
+	FBB3B46213CB92AF008F8CD1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FB27021313C3867000AF85BC /* ParticipaViewControllerClass.h */;
+		name = "ParticipaViewControllerClass.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 568;
+		vrLoc = 0;
+	};
+	FBB3B46313CB92AF008F8CD1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FB27021413C3867000AF85BC /* ParticipaViewControllerClass.m */;
+	};
+	FBB3B46E13CB9450008F8CD1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FB27021413C3867000AF85BC /* ParticipaViewControllerClass.m */;
+		name = "ParticipaViewControllerClass.m: 17";
+		rLen = 0;
+		rLoc = 335;
+		rType = 0;
+		vrLen = 811;
+		vrLoc = 0;
+	};
+	FBC5EB6313B10AC8004B952D /* SearchViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1216, 8021}}";
+			sepNavSelRange = "{17768, 0}";
+			sepNavVisRange = "{17432, 705}";
+		};
+	};
+}
